@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jordan</h1>
 <h3 align="center">University Graduate looking for AI and ML opportunities</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence Engineer Certification with USAII**
+- 🔭 I’m currently a **USAII Certified Artificial Intelligence Engineer**
 
 - 🧠 All of my projects are available at [https://github.com/jbouknight1911](https://github.com/jbouknight1911)
 
