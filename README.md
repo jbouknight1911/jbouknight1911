@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jordan@bouknight.io**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14CL4mSy3-Yso7fU0YloGemnhdmT3DNRI/view?usp=drive_link](https://drive.google.com/file/d/14CL4mSy3-Yso7fU0YloGemnhdmT3DNRI/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12ah0hFt1-_CG9sdcIW8GnXbdmdpi9aP8/view?usp=sharing](https://drive.google.com/file/d/12ah0hFt1-_CG9sdcIW8GnXbdmdpi9aP8/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
