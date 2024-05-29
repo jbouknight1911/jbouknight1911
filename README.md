@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Jordan</h1>
 <h3 align="center">University Graduate looking for AI and ML opportunities</h3>
 
-- 🔭 I’m currently a **USAII Certified Artificial Intelligence Engineer**
+- 🔭 I’m currently a **Artificial Intelligence Trainer @ Outlier (Scale AI)**
 
 - 🧠 All of my projects are available at [https://github.com/jbouknight1911](https://github.com/jbouknight1911)
 
-- 📫 How to reach me **jordan@bouknight.io**
+- 📫 How to reach me **j.andrewbouknight@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12ah0hFt1-_CG9sdcIW8GnXbdmdpi9aP8/view?usp=sharing](https://drive.google.com/file/d/12ah0hFt1-_CG9sdcIW8GnXbdmdpi9aP8/view?usp=sharing) 
 
