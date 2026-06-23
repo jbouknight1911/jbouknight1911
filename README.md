@@ -1,20 +1,45 @@
-<h1 align="center">Hello, I'm Jordan</h1>
-<h3 align="center">University Graduate looking for AI and ML opportunities</h3>
+<div align="center">
 
-- 🔭 I’m currently an **Artificial Intelligence Trainer @ Outlier (Scale AI)**
+# Jordan Bouknight
 
-- 🧠 All of my projects are available at [https://github.com/jbouknight1911](https://github.com/jbouknight1911)
+Software Engineer II · Generative AI & Data Science @ **Robert Half Protiviti**
 
-- 📫 How to reach me **j.andrewbouknight@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<br>
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12ah0hFt1-_CG9sdcIW8GnXbdmdpi9aP8/view?usp=sharing](https://drive.google.com/file/d/12ah0hFt1-_CG9sdcIW8GnXbdmdpi9aP8/view?usp=sharing) 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jordan-bouknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan-bouknight" height="30" width="40" /></a>
-</p>
+I build production-minded AI applications that connect language models to real workflows -- document intelligence, governed tool use, multi-agent orchestration, evaluation, and observability. I care more about architecture judgment than model-calling: auth boundaries, tracing, failure states, evals as a first-class concern, and keeping a human in the loop where it matters.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Currently building
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbouknight1911&show_icons=true&locale=en&layout=compact" alt="jbouknight1911" /></p>
+> **Agent Systems Lab** -- a suite of projects demonstrating agentic RAG, governed MCP tool gateways, A2A agent interoperability, and stateful workflow orchestration. Repos pin here as each hits a demonstrable milestone.
+
+### Focus areas
+
+| Area | What I'm doing |
+|:--|:--|
+| **Agentic RAG** | Query decomposition, hybrid retrieval, citations, faithfulness evals |
+| **Tool protocols (MCP)** | Governed tool access with typed schemas, permissions, audit logs |
+| **Agent interoperability (A2A)** | Capability discovery, artifact exchange, distributed coordination |
+| **Orchestration** | Durable multi-agent state with human approval gates |
+| **Applied / experimental** | Browser-native AI and WebGPU spatial reasoning |
+
+### Working with
+
+`Python` · `FastAPI` · `Pydantic` · `TypeScript` · `Postgres / pgvector` · `Azure OpenAI` · `LangChain` · `MS Agent Framework` · `RAG` · `vector search` · `MCP` · `A2A` · `OpenTelemetry` · `Docker`
+
+### Reach me
+
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=githubpages&logoColor=white)](https://jbouknight1911.github.io/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordan-bouknight)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:j.andrewbouknight@gmail.com)
+
+<sub> (*) Interactive resume is a work in progress -- live link coming soon.</sub>
