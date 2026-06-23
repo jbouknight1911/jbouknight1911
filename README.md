@@ -2,7 +2,9 @@
 
 # Jordan Bouknight
 
-Software Engineer II · Generative AI & Data Science @ **Robert Half Protiviti**
+**Software Engineer building applied AI systems** -- agentic RAG, tool protocols, and multi-agent orchestration.
+
+`Gen AI Engineer` @ **Robert Half Protiviti** · Generative AI & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -10,7 +12,9 @@ Software Engineer II · Generative AI & Data Science @ **Robert Half Protiviti**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 <br>
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MS Agent Framework](https://img.shields.io/badge/MS_Agent_Framework-5E5E5E?style=flat&logo=dotnet&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat&logo=microsoft&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
 
@@ -34,12 +38,12 @@ I build production-minded AI applications that connect language models to real w
 
 ### Working with
 
-`Python` · `FastAPI` · `Pydantic` · `TypeScript` · `Postgres / pgvector` · `Azure OpenAI` · `LangChain` · `MS Agent Framework` · `RAG` · `vector search` · `MCP` · `A2A` · `OpenTelemetry` · `Docker`
+`Python` · `TypeScript` · `SQL` · `FastAPI` · `Azure OpenAI` · `Microsoft Agent Framework` · `Semantic Kernel` · `LangGraph` · `LangChain` · `RAG` · `vector search` · `MCP` · `Docker` · `Bicep` · `Entra ID`
 
-### Reach me
+### :inbox_tray: Reach me
 
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=githubpages&logoColor=white)](https://jbouknight1911.github.io/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordan-bouknight)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:j.andrewbouknight@gmail.com)
 
-<sub> (*) Interactive resume is a work in progress -- live link coming soon.</sub>
+<sub>↑ Interactive resume is a work in progress -- live link coming soon.</sub>
