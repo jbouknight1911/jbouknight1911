@@ -42,8 +42,6 @@ I build production-minded AI applications that connect language models to real w
 
 ### :inbox_tray: Reach me
 
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=githubpages&logoColor=white)](https://jbouknight1911.github.io/resume)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=githubpages&logoColor=white)](https://jbouknight1911.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordan-bouknight)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:j.andrewbouknight@gmail.com)
-
-<sub>↑ Interactive resume is a work in progress -- live link coming soon.</sub>
